@@ -1,0 +1,19 @@
+Assignments
+1. Create a file named file1 in the current directory, change the permission
+for file to following
+   a. rwx for user rw for group r for other1
+   b. rw for user r for group and other
+   c. rwx for all
+   d. rwx for user r for group and other
+   e. rw for user rw for group and r for ther
+2. Write a shell utility to copy recently modified files in the last 2 days in
+another directory.
+3. Write a shell utility to move all files whose size is greater than 30bytes in
+another directory.
+4. Using find search for following
+   a. all .c files in current directory
+   b. all .java files in current directory
+   c. all files which contains word hello in its name
+5. Accept file name from user, if file exists and file has read permission then
+print its contents.
+6. Print the count of executable files in the current directory.
